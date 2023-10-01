@@ -1,0 +1,52 @@
+{
+  "Total Income: $": 105000,
+  "Financial Goals": [
+    {
+      "Goal amount received": 10000,
+      "Goal name": "Vacation",
+      "Goal amount": 30000
+    },
+    {
+      "Goal amount received": 20000,
+      "Goal name": "New Car",
+      "Goal amount": 100000
+    }
+  ],
+  "Total Expenses: $": -1200,
+  "List of Expenses": [
+    {
+      "Amounts": [
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "Expense Name": "Food"
+    },
+    {
+      "Amounts": [
+        100,
+        200,
+        300,
+        400
+      ],
+      "Expense Name": "Clothes"
+    }
+  ],
+  "Income to Expense Ratio: ": "8750.0%",
+  "Budget: $": 103800,
+  "List of Revenues": [
+    {
+      "Amounts": [
+        100000,
+        2000
+      ],
+      "Revenue Name": "Salary"
+    },
+    {
+      "Amounts": [3000],
+      "Revenue Name": "Misc"
+    }
+  ]
+}

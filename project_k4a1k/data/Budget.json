@@ -1,0 +1,62 @@
+{
+    "Revenue to Expense Ratio: ": "2260.0%",
+    "Financial Goals": [
+        {
+            "Goal amount": 3000,
+            "Goal name": "Vacation",
+            "Goal amount received": 1500
+        },
+        {
+            "Goal amount": 100000,
+            "Goal name": "Mortgage",
+            "Goal amount received": 75000
+        }
+    ],
+    "Total Expenses: $": -2553,
+    "List of Expenses": [
+        {
+            "Amounts": [
+                400,
+                500,
+                21,
+                320
+            ],
+            "Expense Name": "Clothes"
+        },
+        {
+            "Amounts": [
+                21,
+                321,
+                12,
+                21,
+                321,
+                54
+            ],
+            "Expense Name": "Groceries"
+        },
+        {
+            "Amounts": [
+                400,
+                120,
+                42
+            ],
+            "Expense Name": "Car"
+        }
+    ],
+    "Total Revenue: $": 57700,
+    "Budget: $": 55147,
+    "List of Revenues": [
+        {
+            "Amounts": [40000],
+            "Revenue Name": "Salary"
+        },
+        {
+            "Amounts": [
+                1000,
+                200,
+                16500
+            ],
+            "Revenue Name": "Stocks"
+        }
+    ]
+}
