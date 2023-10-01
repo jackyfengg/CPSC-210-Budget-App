@@ -1,0 +1,27 @@
+{
+    "Revenue to Expense Ratio: ": "8381.0%",
+    "Financial Goals": [{
+        "Goal amount": 100,
+        "Goal name": "Trip",
+        "Goal amount received": 0
+    }],
+    "Total Expenses: $": -1260,
+    "List of Expenses": [{
+        "Amounts": [
+            10,
+            20,
+            30
+        ],
+        "Expense Name": "Gas"
+    }],
+    "Total Revenue: $": 105600,
+    "Budget: $": 104340,
+    "List of Revenues": [{
+        "Amounts": [
+            100,
+            200,
+            300
+        ],
+        "Revenue Name": "Job"
+    }]
+}
