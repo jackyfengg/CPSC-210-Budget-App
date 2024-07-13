@@ -1,4 +1,4 @@
-# Budgeting Application
+# Budgetify
 ## CPSC 210 Jacky Feng 
 
 ***Project Description:*** My project is an application that will **help users manage their personal finances** by allowing them to create and manage budgets.
